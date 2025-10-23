@@ -1,11 +1,12 @@
-import "../css/About.css";
+import "./../css/About.css";
 
 const About = () => {
     return (
-        <div id="about">
-        <h2> About </h2>
-        </div>
-    );
+        <main id="about" className="main-content">
+            <h2>About</h2>
+
+        </main>
+    )
 };
 
 export default About;
