@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/learn-react/static/css/main.a11696aa.css",
+    "main.js": "/learn-react/static/js/main.cf8246cc.js",
+    "static/media/swimming.jpg": "/learn-react/static/media/swimming.bfe6ac7ebedf713325d6.jpg",
+    "static/media/jump-rope.jpg": "/learn-react/static/media/jump-rope.0f4f0318b386bdc2bdf4.jpg",
+    "static/media/bike-accident.jpg": "/learn-react/static/media/bike-accident.34a829660357a40749df.jpg",
+    "static/media/jogging.jpg": "/learn-react/static/media/jogging.f2a474a7dd04472c83f6.jpg",
+    "static/media/reading.webp": "/learn-react/static/media/reading.aa36ffe310ac5b6f3c23.webp",
+    "index.html": "/learn-react/index.html",
+    "main.a11696aa.css.map": "/learn-react/static/css/main.a11696aa.css.map",
+    "main.cf8246cc.js.map": "/learn-react/static/js/main.cf8246cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a11696aa.css",
+    "static/js/main.cf8246cc.js"
+  ]
+}
