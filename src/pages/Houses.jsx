@@ -1,5 +1,3 @@
-import {useState, useEffect} from "react";
-import axios from "axios";
 import "./../css/House.css";
 import HouseList from "../components/HouseList";
 
