@@ -18,11 +18,7 @@ const HouseList = (props) => {
     }
 
     const updateHouses = (house) => {
-        const normalizedHouse = {
-            ...house,
-            features: Array.isArray(house.features) ? house.features : []
-        };
-        setHouses((houses)=>[...houses, normalizedHouse]);
+        setHouses((houses)=>[...houses, house]);
     };
 
     //after page has loaded
@@ -47,7 +43,7 @@ const HouseList = (props) => {
             <div id="house-list" className="columns">
                 {houses.map((house)=>(
                     <House  key={house._id} 
-                            id={house._id}
+                            _id={house._id}
                             name={house.name} 
                             size={house.size}
                             bedrooms={house.bedrooms}
